@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\asus\music\106360219_王立維\2.23\source\main.c(11): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\asus\music\106360219_王立維\2.23\source\main.c(15): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\asus\music\106360219_王立維\2.23\source\main.c(19): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\asus\music\106360219_王立維\2.23\source\main.c(23): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\asus\music\106360219_王立維\2.23\source\main.c(27): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+c:\users\asus\music\106360219_王立維\2.23\source\main.c(31): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  2.23.vcxproj -> C:\Users\Asus\Music\106360219_王立維\2.23\2.23\2.23\..\..\temp\debug\2.23.exe
+  2.23.vcxproj -> ..\..\temp\debug\2.23.pdb (Partial PDB)
